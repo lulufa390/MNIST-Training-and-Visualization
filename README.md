@@ -1,4 +1,4 @@
-# player-detection
+# MNIST Training and Visualization
 This is a toy sample for mnist classification using CNN and FCN. 
 
 Dependencies:
